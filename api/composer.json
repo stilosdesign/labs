@@ -1,4 +1,20 @@
 {
+  "name": "stilosdesign/restapi-swoole",
+  "description": "API Rest sample using PHP and Swoole",
+  "keywords": ["restapi", "swoole", "php"],
+  "homepage": "https://github.com/stilosdesign/restapi-swoole",
+  "type": "library",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Antoniel Bordin",
+      "email": "webmaster@stilosdesign.com.br",
+      "role": "owner"
+    }
+  ],
+  "license": [
+    "MIT"
+  ],
   "require": {
     "firebase/php-jwt": "^6.10"
   },
