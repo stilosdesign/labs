@@ -1,0 +1,11 @@
+# RestAPI Swoole
+
+/vendor
+/vendor/*
+/.idea
+
+/logs/*
+!/logs/empty
+
+.env
+.phpunit.result.cache
